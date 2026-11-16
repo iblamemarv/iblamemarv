@@ -6,14 +6,14 @@ Ich mache gerade meine Ausbildung zum **Informationstechnischen Assistenten (ITA
 
 | Projekt | Was | Technik |
 |---|---|---|
-| [Abby's Beauty Salon & Academy](https://testseite-abbysbeautysalon.netlify.app/) | Website mit Shop und Academy für einen Salon in Neuss, gebaut im Praktikum | HTML, CSS, JavaScript, Netlify |
+| [Abby's Beauty Salon & Academy](https://github.com/iblamemarv/abbys-beauty-salon-website) | Website mit Shop und Academy für einen Salon in Neuss, gebaut im Praktikum | HTML, CSS, JavaScript |
 | [IT Lern-Quizze](https://iblamemarv.github.io/it-lern-quizze/) | Quiz und Karteikarten für Subnetting, Netzwerke, SQL, PowerShell | HTML, CSS, JavaScript |
 | ESP32-CAM Erkundungsauto | Schulprojekt: Auto mit Kamera und Gassensoren für Rettungskräfte (in Arbeit) | C++, ESP32, Arduino |
 | [miniumfrage](https://github.com/iblamemarv/miniumfrage) | Kleine Umfrage-App | Python, Django, SQLite |
 
 **Werkzeuge**
 
-HTML · CSS · JavaScript · Python · Django · SQL · PowerShell · C++ (Arduino) · Git · Netlify · Netzwerke und Subnetting
+HTML · CSS · JavaScript · Python · Django · SQL · PowerShell · C++ (Arduino) · Git · Netzwerke und Subnetting
 
 **Gerade dabei**
 
